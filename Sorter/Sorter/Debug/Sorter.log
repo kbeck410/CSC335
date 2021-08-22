@@ -1,0 +1,6 @@
+﻿  SupportFunctions.cpp
+C:\Users\Kashif Beckford\OneDrive\Documentos\CSC335\Sorter\Sorter\SupportFunctions.h(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kashif Beckford\OneDrive\Documentos\CSC335\Sorter\Sorter\SupportFunctions.h(225,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kashif Beckford\OneDrive\Documentos\CSC335\Sorter\Sorter\SupportFunctions.h(246,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kashif Beckford\OneDrive\Documentos\CSC335\Sorter\Sorter\SupportFunctions.h(254,22): warning C4018: '<': signed/unsigned mismatch
+  Sorter.vcxproj -> C:\Users\Kashif Beckford\OneDrive\Documentos\CSC335\Sorter\Debug\Sorter.exe
